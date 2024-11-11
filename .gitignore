@@ -1,0 +1,15 @@
+# Ignore target folder
+/target
+
+# Ignore IDE-specific files
+.vscode
+.idea
+.DS_Store
+
+# Ignore unnecessary files for Git
+*.log
+*.bak
+*.swp
+
+# Ignore build artifacts
+*.rs.bk
